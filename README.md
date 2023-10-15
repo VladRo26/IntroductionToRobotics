@@ -6,8 +6,7 @@ Hey there, I'm Turis Gavriil-Vlad, a passionate computer science student at the 
 
 ### About Me:
 
-I'm a tech enthusiast with a passion for robotics. This repository is my playground for coding experiments and projects. It's where I tinker with tech, learn the ropes of robotics, and develop my coding skills. Let's explore the world of machines together!
-
+I'm passionate about technology, especially about robotics. This repository is my digital workshop for coding experiments and projects. It's where I refine my coding skills and delve into the world of robotics. Join me in discovering the exciting world of machines and tech.
 
 ### What You'll Find Here:
 
