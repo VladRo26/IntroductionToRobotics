@@ -46,5 +46,5 @@ Here is a link to my Youtube channel where I uploaded the video with this homewo
 https://youtu.be/Vag-dYEdMus
 
 #### Code:
-The code is uploaded with the file name: sketch_oct20a.ino
+The code is uploaded with the file name: Homework_2_code.ino
 
