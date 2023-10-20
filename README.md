@@ -44,3 +44,7 @@ controlling RGB LEDs based on the analog readings.
 #### Video:
 Here is a link to my Youtube channel where I uploaded the video with this homework:
 https://youtu.be/Vag-dYEdMus
+
+#### Code:
+The code is uploaded with the file name: sketch_oct20a.ino
+
