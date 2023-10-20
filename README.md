@@ -40,3 +40,7 @@ controlling RGB LEDs based on the analog readings.
 
 
 ![poza_2_3](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/694d6fee-8adc-4469-a0aa-c3205a848fa2=250x250)
+
+#### Video:
+Here is a link to my Youtube channel where I uploaded the video with this homework:
+https://youtu.be/Vag-dYEdMus
