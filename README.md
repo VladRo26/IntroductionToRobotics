@@ -27,8 +27,16 @@ controlling RGB LEDs based on the analog readings.
 
 #### Photos: 
 
-![poza_2_2](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/f1565874-df2d-41e3-a307-f44d85364a6d)
-![poza_2_1](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/f96b919b-6ce0-4b23-8638-3e6e2c260f1c)
-![poza_2_5](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/4059468c-8bab-4e5c-87a8-8640406487b5)
-![poza_2_4](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/59a7ceb1-3b7b-449b-9359-5c175ffa09b7)
-![poza_2_3](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/694d6fee-8adc-4469-a0aa-c3205a848fa2)
+![poza_2_2](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/f1565874-df2d-41e3-a307-f44d85364a6d){width=300}
+
+
+![poza_2_1](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/f96b919b-6ce0-4b23-8638-3e6e2c260f1c){width=300}
+
+
+![poza_2_5](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/4059468c-8bab-4e5c-87a8-8640406487b5){width=200}
+
+
+![poza_2_4](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/59a7ceb1-3b7b-449b-9359-5c175ffa09b7){width=200}
+
+
+![poza_2_3](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/694d6fee-8adc-4469-a0aa-c3205a848fa2){width=200}
