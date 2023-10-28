@@ -50,3 +50,38 @@ The code is uploaded with the file name: Homework_2_code.ino
 Link:
 https://github.com/VladRo26/IntroductionToRobotics/blob/main/Homework_2_code.ino
 
+### Homework 3
+
+#### Task:
+This assignment involves simulating a 3-floor elevator control system using
+LEDs, buttons, and a buzzer with Arduino. By the end of this task, you will gain
+experience in using button state change, implementing debouncing techniques,
+and coordinating multiple components to represent real-world scenarios.
+
+### Components :
+-LEDs (At least 4: 3 for the floors and 1 for the elevator’s operational
+state)
+-Buttons (At least 3 for floor calls)
+-Buzzer (1) - optional for Computer Science, mandatory for CTI
+- Resistors and wires as needed
+
+#### Photos:
+
+![poza_3_1](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/28c8dd4d-a6b8-4219-a79e-a10639301da7=250x250)
+![poza_3_6](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/146710cf-5e39-481a-86e1-fd98ee015d17=250x250)
+![poza_3_5](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/6da5f92f-ce67-48ef-8270-cfeef93bf9ab=250x250)
+![poza_3_4](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/70942047-33fa-46f0-b953-cf88fc926d15=250x250)
+![poza_3_3](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/d1a4d1da-44f3-4d0d-9747-ae0697294c0d=250x250)
+![poza_3_2](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/538629b1-230b-4220-8c30-8eb6272478d7=250x250)
+
+##### Video:
+Here is a link to my Youtube channel where I uploaded the video with this homework:
+https://youtu.be/4dvohZHKHDw
+
+#### Code:
+The code is uploaded with the file name: Homework_3_code.ino
+Link: 
+
+
+
+
