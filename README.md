@@ -77,6 +77,9 @@ state)
 ##### Video:
 Here is a link to my Youtube channel where I uploaded the video with this homework:
 https://youtu.be/4dvohZHKHDw
+NOTE: I SOLVED THE PROBLEM WITH THE BUZZER QUITE SOUND !
+IT WAS BECAUSE OF THE RESISTOR USED FOR BUZZER, I TRIED TO USE A 100 OHM RESISTOR BUT IT ACTUALLY WAS 5K =).
+THE ELEVATOR HAS ALL THE THREE SOUNDS.
 
 #### Code:
 The code is uploaded with the file name: Homework_3_code.ino
