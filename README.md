@@ -86,6 +86,35 @@ The code is uploaded with the file name: Homework_3_code.ino
 Link: 
 https://github.com/VladRo26/IntroductionToRobotics/blob/main/homework_3.ino
 
+### Homework 4
+
+#### Task:
+You will use the joystick to control the position of
+the segment and ”draw” on the display. The movement between segments
+should be natural, meaning they should jump from the current position
+only to neighbors, but without passing through ”walls”.
+
+### Components :
+1 7-segment display, 1 joystick, resistors and wires (per
+logic)
+
+#### Photos:
+
+![poza_4_2](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/a505492c-7dbd-40c9-b0c7-2464807975db=250x250)
+![poza_4_1](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/15493d2f-0014-4032-b761-87490777410f=250x250)
+![poza_4_4](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/3b31a2c9-98a9-446f-a9d5-56f241e520f0=250x250)
+![poza_4_3](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/006184e7-6f7e-4eec-8a10-ff58e9cd694a=250x250)
+
+#### Video:
+Here is a link to my Youtube channel where I uploaded the video with this homework:
+https://youtu.be/BeVpAw33-O4
+
+#### Code:
+The code is uploaded with the file name: homework_4_code.ino
+Link: 
+
+
+
 
 
 
