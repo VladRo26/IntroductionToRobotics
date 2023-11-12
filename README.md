@@ -114,6 +114,32 @@ The code is uploaded with the file name: homework_4_code.ino
 Link: 
 https://github.com/VladRo26/IntroductionToRobotics/blob/main/homework_4.ino
 
+### Homework 5
+
+#### Task:
+Using the 4 digit 7 segment display and 3 buttons,
+you should implement a stopwatch timer that counts in 10ths of a second
+and has a save lap functionality (similar to most basic stopwatch functions
+on most phones).
+
+### Components :
+ 1 7-segment display, 3 buttons, resistors and wires (per
+logic)
+
+#### Photos:
+
+![poza_5_1](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/51034b03-8cfe-4491-9489-7e68cd17f1e0=250x250)
+![poza_5_3](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/78fdd952-8c25-4829-9fa2-a2ffcfe47cf6=250x250)
+![poza_5_2](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/22c48a70-5fc5-4c74-b3e5-a34d6add18b9=250x250)
+
+#### Video:
+Here is a link to my Youtube channel where I uploaded the video with this homework:
+https://youtu.be/loFZSgPDC14
+#### Code:
+The code is uploaded with the file name: homework_4_code.ino
+Link: 
+
+
 
 
 
