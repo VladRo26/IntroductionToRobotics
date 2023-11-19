@@ -169,10 +169,9 @@ Here is a link to my Youtube channel where I uploaded the video with this homewo
 https://youtu.be/GQotMREL70o
 
 #### Code :
-The code is uploaded with the file name: homework_5_code.ino
+The code is uploaded with the file name: homework_6_code.ino
 Link: 
-https://github.com/VladRo26/IntroductionToRobotics/blob/main/homework_5.ino
-
+https://github.com/VladRo26/IntroductionToRobotics/blob/main/homework_6.ino
 
 
 
