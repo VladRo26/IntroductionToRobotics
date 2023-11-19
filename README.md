@@ -136,10 +136,42 @@ logic)
 Here is a link to my Youtube channel where I uploaded the video with this homework:
 https://youtu.be/loFZSgPDC14
 #### Code:
-The code is uploaded with the file name: homework_4_code.ino
+The code is uploaded with the file name: homework_5_code.ino
 Link: 
 https://github.com/VladRo26/IntroductionToRobotics/blob/main/homework_5.ino
 
+
+### HomeWork 6
+
+#### Task:
+Develop a ”Smart Environment Monitor and Logger” using Arduino. This system will utilize various sensors to gather environmental data, log this data into
+EEPROM, and provide both visual feedback via an RGB LED and user interaction through a Serial Menu. The project focuses on integrating sensor readings,
+memory management, Serial Communication and the general objective of building a menu. 
+
+#### Components :
+
+• Arduino Uno Board
+• Ultrasonic Sensor (HC-SR04)
+• LDR (Light-Dependent Resistor) aka Photocell aka Photoresistor aka Light
+Sensor
+• RGB LED
+• Resistors as needed
+• Breadboard and connecting wires
+• (Optional) Additional sensors / compoennts for extended functionality
+
+#### Photos:
+
+![poza_6_1](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/076195e7-2416-4b8f-b630-aa0914593062=250x250)
+![poza_6_2](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/d189b0ae-7d62-4638-b7d6-5bac4f9499cf=250x250)
+
+#### Video:
+Here is a link to my Youtube channel where I uploaded the video with this homework:
+https://youtu.be/GQotMREL70o
+
+#### Code :
+The code is uploaded with the file name: homework_5_code.ino
+Link: 
+https://github.com/VladRo26/IntroductionToRobotics/blob/main/homework_5.ino
 
 
 
