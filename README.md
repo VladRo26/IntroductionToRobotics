@@ -173,6 +173,40 @@ The code is uploaded with the file name: homework_6_code.ino
 Link: 
 https://github.com/VladRo26/IntroductionToRobotics/blob/main/homework_6.ino
 
+### Homework 7
+
+#### Task:
+Develop a small game on the 8x8 matrix. The game must have at least 3 types
+of elements: player (blinks slowly), bombs/bullets (blinks fast), wall (doesn’t
+blink). The purpose of this to get you started with your matrix project. The
+basic idea is that you generate walls on the map (50% - 75% of the map) and then
+you move around with the player and destroy them. You can do it Bomberman
+style or terminator-tanks style (or another way, be creative).
+
+#### Components :
+• Arduino Uno Board
+• Joystick
+• 8x8 LED Matrix
+• MAX7219
+• Resistors and capacitors as needed
+• Breadboard and connecting wires
+• (Optional) Additional sensors / components for extended functionality
+
+#### Photos:
+![poza_7_2](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/060b880e-dc07-43e4-b70a-eefe9ce0f2af=250x250)
+![poza_7_1](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/26e3c326-284f-452f-bdbc-10d275d2b755=250x250)
+
+#### Video:
+Here is a link to my Youtube channel where I uploaded the video with this homework:
+https://youtu.be/ryKiFQzdhNs
+
+#### Code :
+The code is uploaded with the file name: homework_7_code.ino
+Link: 
+
+
+
+
 
 
 
