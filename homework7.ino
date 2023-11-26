@@ -81,7 +81,6 @@ void checkAnimation() {
   wallCount = 0;
   int playerCount = 0;
 
-  // Count walls and player
   for (int col = 0; col < matrixSize; col++) {
     for (int row = 0; row < matrixSize; row++) {
       if (matrix[row][col] == 1) {
@@ -109,8 +108,8 @@ void resetGame() {
   spawnPlayer();
   wallCount = 0;
   isShooting = false;
-  animationPlayed = false; // Reset this flag
-  startGame = true; // Ready to start the game again
+  animationPlayed = false; 
+  startGame = true; 
 }
 
 
@@ -184,9 +183,9 @@ void game(){
 
     
   if (millis() - lastPlayerBlinkTime > playerBlinkInterval) {
-  playerVisible = !playerVisible; // Toggle the visibility
+  playerVisible = !playerVisible;
   lastPlayerBlinkTime = millis();
-  matrix[xPos][yPos] = playerVisible ? 2 : 0; // Update the matrix
+  matrix[xPos][yPos] = playerVisible ? 2 : 0; 
   matrixChanged = true;
   }
     
@@ -196,17 +195,15 @@ void game(){
   if (isShooting) {
     unsigned long currentTime = millis();
     if (currentTime - shootingStartTime < shootingDuration) {
-      // Toggle bomb visibility every shootingBlinkInterval
       if ((currentTime - shootingStartTime) / shootingBlinkInterval % 2 == 0) {
-        setBombs(5); // Bombs visible
+        setBombs(5);
       } else {
-        setBombs(0); // Bombs not visible
+        setBombs(0); 
       }
     } else {
-      // End the shooting animation
-      setBombs(0); // Ensure bombs are off at the end
+      setBombs(0); 
       isShooting = false;
-      clearBombs(); // Clear bombs from the matrix
+      clearBombs(); 
     }
   }
 
@@ -224,7 +221,7 @@ void clearBombs() {
   for (int row = 0; row < matrixSize; row++) {
     for (int col = 0; col < matrixSize; col++) {
       if (matrix[row][col] == 5) {
-        matrix[row][col] = 0; // Clear bomb position
+        matrix[row][col] = 0; 
       }
     }
   }
@@ -276,7 +273,7 @@ void buttonPress(){
 }
 
 void shoot() {
-  if (!isShooting) { // Start shooting only if not already shooting
+  if (!isShooting) { 
     isShooting = true;
     shootingStartTime = millis();
 
@@ -314,7 +311,6 @@ void printScore() {
   Serial.print("Your score is: ");
   Serial.println(score);
 
-  // Reset game start time for next game
   gameStartTime = 0;
 }
 
