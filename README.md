@@ -252,6 +252,7 @@ user prompt and then return to the main menu again.
 
 ##### Video:
 Here is a link to my Youtube channel where I uploaded the video with this homework:
+https://youtu.be/uKthXtFWF_A
 
 #### Code :
 The code is uploaded with the file name: matrix_project.ino
