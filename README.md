@@ -205,6 +205,60 @@ The code is uploaded with the file name: homework_7_code.ino
 Link: 
 https://github.com/VladRo26/IntroductionToRobotics/blob/main/homework7.ino
 
+### Homework 8
+
+#### Task:
+Add the following functionality for this checkpoint:
+1. Intro Message - When powering up the project, a greeting message
+should be shown for a few moments.
+2. Menu:
+(a) Start game, starts the initial level of
+(b) Settings
+i. LCD brightness control. Save value to EEPROM and load it
+upon system start.
+ii. Matrix brightness control (see function setIntesnity from the ledControl library). Make sure to display something on the matrix
+when selecting it. Save value to EEPROM and load it upon
+system start.
+(c) About: should include details about the creator(s) of the game. At
+least game name, author and github link or user (use scrolling text?)
+3. End Message - When the game ends, add a message. Wait for a promt
+from the user (a button push, for example), before returning to main menu
+again.
+4. During gameplay:
+(a) Show relevant details, that are dynamic (change with gameplay):
+time, level, lives etc. Doesn’t matter, what can be used. You can
+implement the number of LEDs that are still switched on.
+(b) Implement an end game / level functionality. You current game
+should end. For example, if you implemented the game where you
+”destroy” all the LEDs, it should end when you finished them all.
+Upon ending, it should display the aforementioned message, wait for
+user prompt and then return to the main menu again.
+
+#### Components :
+• Arduino Uno Board
+• Joystick
+• 8x8 LED Matrix
+• MAX7219
+• Resistors and capacitors as needed
+• Breadboard and connecting wires
+• (Optional) Additional sensors / components for extended functionality
+
+
+#### Photos:
+![poza_8_1](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/c35bb4d8-e197-42bb-b2db-fbcdd20449e4=250x250)
+![poza_8_3](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/74985987-af49-4044-b5b6-d766b50d0c95=250x250)
+![poza_8_2](https://github.com/VladRo26/IntroductionToRobotics/assets/100710098/637b4867-5c83-4c94-9d8f-22cc0690b365=250x250)
+
+
+##### Video:
+Here is a link to my Youtube channel where I uploaded the video with this homework:
+
+#### Code :
+The code is uploaded with the file name: matrix_project.ino
+Link: 
+
+
+
 
 
 
